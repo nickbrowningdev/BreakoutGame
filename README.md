@@ -1,1 +1,1 @@
-# BreakoutGame
+# Breakout (Desktop Application)
