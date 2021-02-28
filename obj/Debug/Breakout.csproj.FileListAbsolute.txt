@@ -1,0 +1,10 @@
+D:\Development\Desktop Projects\C#\Breakout\bin\Debug\Breakout.exe.config
+D:\Development\Desktop Projects\C#\Breakout\bin\Debug\Breakout.exe
+D:\Development\Desktop Projects\C#\Breakout\bin\Debug\Breakout.pdb
+D:\Development\Desktop Projects\C#\Breakout\obj\Debug\Breakout.csprojAssemblyReference.cache
+D:\Development\Desktop Projects\C#\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+D:\Development\Desktop Projects\C#\Breakout\obj\Debug\Breakout.csproj.GenerateResource.cache
+D:\Development\Desktop Projects\C#\Breakout\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+D:\Development\Desktop Projects\C#\Breakout\obj\Debug\Breakout.exe
+D:\Development\Desktop Projects\C#\Breakout\obj\Debug\Breakout.pdb
+D:\Development\Desktop Projects\C#\Breakout\obj\Debug\Breakout.BreakoutForm.resources
